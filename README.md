@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @swarleyteddy
-- 👀 
 - 🌱 I’m currently learning Python, R, mySQL
-- 💞️ 
 - 📫 andrea.a.tedeschi@gmail.com
 
 <!---
