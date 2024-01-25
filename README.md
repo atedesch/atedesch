@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atedesch
-- 🌱 I’m currently learning Python, R, mySQL
+- 🌱 I’m currently learning C, Python, R, mySQL
 - 📫 andrea.a.tedeschi@gmail.com
 - [Curriculum Vitae](https://github.com/atedesch/atedesch/blob/main/CV%20Andrea%20Alfonso%20Tedeschi%20(v16_ITA).pdf) [italian]
 
