@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @atedesch
 - 🌱 I’m currently learning Python, R, mySQL
 - 📫 andrea.a.tedeschi@gmail.com
+- https://github.com/atedesch/atedesch/blob/main/CV%20Andrea%20Alfonso%20Tedeschi%20(v16_ITA).pdf
 
 <!---
 swarleyteddy/swarleyteddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
