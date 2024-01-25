@@ -1,6 +1,8 @@
-# Personal information
+# Personal Information
 - 👋 Hi, I’m @atedesch
 - 🌱 I’m currently learning C, Python, R, mySQL
+
+## Contacts
 - 📫 andrea.a.tedeschi@gmail.com
 - [Curriculum Vitae](https://github.com/atedesch/atedesch/blob/main/CV%20Andrea%20Alfonso%20Tedeschi%20(v16_ITA).pdf) [italian]
 
