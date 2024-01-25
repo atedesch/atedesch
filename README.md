@@ -1,3 +1,4 @@
+# Personal information
 - 👋 Hi, I’m @atedesch
 - 🌱 I’m currently learning C, Python, R, mySQL
 - 📫 andrea.a.tedeschi@gmail.com
