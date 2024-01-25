@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swarleyteddy
+- 👋 Hi, I’m @atedesch
 - 🌱 I’m currently learning Python, R, mySQL
 - 📫 andrea.a.tedeschi@gmail.com
 
